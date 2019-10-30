@@ -3,20 +3,23 @@
 @section('content')
 <div class="column">
 	
-<section data-section-id="1" data-component-id="15a7_2_01_awz" data-category="headers" class="hero">
-  <div class="hero-body">
-    <div class="container has-text-centered">
-      <h1 class="title is-spaced" data-config-id="header">The New Internet</h1>
-      <h2 class="subtitle" data-config-id="description">Decentralized, secure, private. The PiperNet is on it's way to revolutionize every smartphone, PC, and smart-fridge near you.</h2>
-      <div class="buttons is-centered"><a class="control button is-primary" href="#" data-config-id="primary-action">Sign up for free</a><a class="control button is-light" href="#" data-config-id="secondary-action">Read more</a></div>
-    </div>
-  </div>
-</section>
-
     <div class="container has-text-centered" style="background-color: #FAFAD2;border-radius: 15px;padding: 0px 10px 0px 10px; margin-top: 10px;">
+
+		<section data-section-id="1" data-component-id="15a7_2_01_awz" data-category="headers" class="hero">
+		  <div class="hero-body">
+		    <div class="container has-text-centered">
+		      <h1 class="title is-spaced" data-config-id="header">Yang anda butuhkan</h1>
+		      <h2 class="subtitle" data-config-id="description">Decentralized, secure, private. The PiperNet is on it's way to revolutionize every smartphone, PC, and smart-fridge near you.</h2>
+		      <div class="buttons is-centered"><a class="control button is-danger" href="#" data-config-id="primary-action">Cari di SerbaOnline</a></div>
+		    </div>
+		  </div>
+		</section>
+  	</div>
+
+    <div class="container has-text-centered is-info" style="border-radius: 15px;padding: 0px 10px 0px 10px; margin-top: 10px;">
 		<section data-section-id="1" data-component-id="15a7_13_02_awz" data-category="blog" class="section">
 		  <div class="container">
-		    <h2 class="title has-text-centered" data-config-id="header">Produk Terlaris</h2>
+		    <h2 class="title has-text-centered" data-config-id="header" style="color: white; background-color: green">Produk Terlaris</h2>
 		    <div class="columns is-multiline" data-config-id="posts_02">
 		      <div class="column is-6-tablet is-3-desktop">
 		        <div class="card" style="height: 100%">
@@ -60,7 +63,7 @@
 		        </div>
 		      </div>
 		    </div>
-		    <div class="buttons is-centered"><a class="button is-primary" href="#" data-config-id="primary-action">Selanjutnya...</a></div>
+		    <div class="buttons is-centered"><a class="button is-warning" href="#" data-config-id="primary-action">Selanjutnya</a></div>
 		  </div>
 		</section>
     </div>
@@ -86,7 +89,7 @@
 		        <p>As with all innovative technologies, sometimes unpredictable things will happen, and you can always count on our support to solve issues for&nbsp;you.</p>
 		      </div>
 		    </div>
-		    <div class="buttons is-centered"><a class="button is-primary" href="" data-config-id="primary-action">Selanjutnya...</a></div>
+		    <div class="buttons is-centered"><a class="button is-primary" href="" data-config-id="primary-action">Selanjutnya</a></div>
 		  </div>
 		</section>
     </div>    
