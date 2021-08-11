@@ -1199,6 +1199,20 @@ builtin-status-codes@^3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/builtin-status-codes/-/builtin-status-codes-3.0.0.tgz#85982878e21b98e1c66425e03d0174788f569ee8"
 
+bulma-calendar@^6.0.7:
+  version "6.1.11"
+  resolved "https://registry.yarnpkg.com/bulma-calendar/-/bulma-calendar-6.1.11.tgz#de9744496762e7aef0cbab222689e107678ffbb2"
+  dependencies:
+    date-fns "^2.21.3"
+
+bulma-extensions@^6.2.7:
+  version "6.2.7"
+  resolved "https://registry.yarnpkg.com/bulma-extensions/-/bulma-extensions-6.2.7.tgz#f9f4d1478a7ac1606ae8db1e765aa45e3f12bb31"
+
+bulma@^0.8.0:
+  version "0.8.2"
+  resolved "https://registry.yarnpkg.com/bulma/-/bulma-0.8.2.tgz#5d928f16ed4a84549c2873f95c92c38c69c631a7"
+
 bytes@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/bytes/-/bytes-3.0.0.tgz#d32815404d689699f85a4ea4fa8755dd13a96048"
@@ -1817,6 +1831,10 @@ csso@^3.5.1:
 cyclist@^1.0.1:
   version "1.0.1"
   resolved "https://registry.yarnpkg.com/cyclist/-/cyclist-1.0.1.tgz#596e9698fd0c80e12038c2b82d6eb1b35b6224d9"
+
+date-fns@^2.21.3:
+  version "2.23.0"
+  resolved "https://registry.yarnpkg.com/date-fns/-/date-fns-2.23.0.tgz#4e886c941659af0cf7b30fafdd1eaa37e88788a9"
 
 date-now@^0.1.4:
   version "0.1.4"
@@ -4126,8 +4144,8 @@ path-key@^2.0.0, path-key@^2.0.1:
   resolved "https://registry.yarnpkg.com/path-key/-/path-key-2.0.1.tgz#411cadb574c5a140d3a4b1910d40d80cc9f40b40"
 
 path-parse@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.6.tgz#d62dbb5679405d72c4737ec58600e9ddcf06d24c"
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/path-parse/-/path-parse-1.0.7.tgz#fbc114b60ca42b30d9daf5858e4bd68bbedb6735"
 
 path-to-regexp@0.1.7:
   version "0.1.7"
